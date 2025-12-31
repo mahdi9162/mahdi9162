@@ -51,26 +51,8 @@ I learn by building, breaking, and refining projects, and I’m focused on writi
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mahdi9162&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi9162&layout=compact&theme=radical&hide_border=true" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=mahdi9162&theme=radical&hide_border=true" 
-    height="165"
-  />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mahdi9162&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mahdi9162&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi9162&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
