@@ -1,5 +1,4 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/banner_github.jpg" alt="Mokkapps GitHub README header image">
-
+<img src="./banner_github.jpg" alt="GitHub profile banner" />
 
 ## Hi, I’m Mahdi 👋
 
