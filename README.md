@@ -1,19 +1,23 @@
 <img src="./banner_github.jpg" alt="GitHub profile banner" />
 
-## Hi, I’m Mahdi 👋
+---
+
+### 🧩 About me
 
 I’m a frontend developer who enjoys building UI-heavy web applications that actually get used.  
-Most of my work is focused on React-based CRUD apps where I care about layout, user flow, and clean component structure.  
-I learn by building, breaking, and refining projects—and I’m currently preparing for frontend job and internship opportunities.
+Most of my work focuses on React-based CRUD apps where I care deeply about layout, user flow, and clean component structure.  
+I learn by building, breaking, and refining projects — and I’m currently preparing for frontend job and internship opportunities.
 
 ---
 
-### Currently focused on
-- Building UI-heavy React applications with real-world flows
-- Strengthening JavaScript fundamentals through hands-on projects
-- Learning Next.js by rebuilding existing React projects
+### 🎯 Currently focused on
+
+- 🧱 Building UI-heavy React applications with real-world user flows  
+- 🧠 Strengthening JavaScript fundamentals through hands-on projects  
+- 🌱 Learning Next.js by rebuilding existing React projects  
 
 ---
+
 
 ### Tech Stack
 
