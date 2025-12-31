@@ -2,30 +2,15 @@
 
 ---
 
-### 🧩 About me
+## Glad to see you here!
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mahdi916)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rifu91629)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mahdi9162)
 
 I’m a frontend developer who enjoys building UI-heavy web applications that actually get used.  
 Most of my work focuses on React-based CRUD apps where I care deeply about layout, user flow, and clean component structure.  
 I learn by building, breaking, and refining projects, and I’m focused on writing frontend code that’s ready for real users.
-
----
-
-<p align="center">
-  <a href="https://facebook.com/mahdi916" title="Facebook Profile" style="margin: 0 10px; text-decoration: none;">
-    <img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" style="filter: invert(1);" />
-    <span>&nbsp;Facebook</span>
-  </a>
-
-  <a href="https://instagram.com/rifu91629" title="Instagram Profile" style="margin: 0 10px; text-decoration: none;">
-    <img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="filter: invert(1);" />
-    <span>&nbsp;Instagram</span>
-  </a>
-
-  <a href="https://x.com/mahdi9162" title="X (Twitter) Profile" style="margin: 0 10px; text-decoration: none;">
-    <img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" style="filter: invert(1);" />
-    <span>&nbsp;X</span>
-  </a>
-</p>
 
 ---
 
