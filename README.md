@@ -52,24 +52,3 @@ I learn by building, breaking, and refining projects, and I’m focused on writi
 </p>
 
 ---
-
-### Selected Projects
-
-Here are a few projects that represent how I think and build:
-
-- **Customer Support Zone**  
-  UI-focused React app for managing support tickets with clear flows and responsive layouts.  
-  *Tech:* React, Tailwind CSS, React Router  
-  🔗 https://github.com/mahdi9162/Customer-Support-Zone
-
-- **AppVerse**  
-  A modern web interface for discovering apps, focused on usability and clean component structure.  
-  *Tech:* React, Tailwind CSS, JavaScript  
-  🔗 https://github.com/mahdi9162/AppVerse
-
-- **BreezyBee**  
-  A lightweight weather application with a simple, user-friendly interface.  
-  *Tech:* JavaScript, CSS  
-  🔗 https://github.com/mahdi9162/BreezyBee
-
----
