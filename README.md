@@ -73,13 +73,3 @@ Here are a few projects that represent how I think and build:
   🔗 https://github.com/mahdi9162/BreezyBee
 
 ---
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi9162&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi9162&layout=compact&theme=dark&hide_border=true)
-
----
-
-### Contact
-- 📧 Email: hasanmahdi6060@gmail.com
-- 🐦 X (Twitter): https://x.com/mahdi9162
