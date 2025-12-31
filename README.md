@@ -1,3 +1,6 @@
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/banner_github.jpg" alt="Mokkapps GitHub README header image">
+
+
 ## Hi, I’m Mahdi 👋
 
 I’m a frontend developer who enjoys building UI-heavy web applications that actually get used.  
