@@ -16,14 +16,23 @@ I learn by building, breaking, and refining projects, and I’m focused on writi
 
 ## 🎯 Currently focused on
 
-<img align="right" alt="coding gif" width="260"
-     src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 - 🧱 Building UI-heavy React applications with real-world user flows  
 - 🧠 Strengthening JavaScript fundamentals through hands-on projects  
 - 🔁 Refactoring older projects to improve structure, readability, and UX  
 - 🧪 Experimenting with better state management and component patterns  
-- 🌱 Gradually exploring Next.js by rebuilding existing React projects
+- 🌱 Gradually exploring Next.js by rebuilding existing React projects  
+
+  </td>
+    <td width="40%" align="right">
+      <img alt="coding gif" width="300"
+           src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
