@@ -52,3 +52,8 @@ I learn by building, breaking, and refining projects, and I’m focused on writi
 </p>
 
 ---
+
+### 🔥 GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahdi9162&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
