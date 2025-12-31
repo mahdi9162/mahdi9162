@@ -53,11 +53,12 @@ My goal is to grow steadily as a developer by working on meaningful projects and
 ---
 
 # 📊 GitHub Stats:
-<!-- Overall Stats -->
-![](https://github-readme-stats.vercel.app/api?username=mahdi9162&theme=date_night&hide_border=false)<br/>
-<!-- Streak -->
+
+![](https://github-readme-stats.vercel.app/api?username=mahdi9162&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=mahdi9162&theme=date_night&hide_border=false)<br/>
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi9162&theme=date_night&hide_border=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi9162&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
