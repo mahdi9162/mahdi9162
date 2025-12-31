@@ -48,3 +48,19 @@ I learn by building, breaking, and refining projects, and I’m focused on writi
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi9162&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mahdi's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi9162&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi9162&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
