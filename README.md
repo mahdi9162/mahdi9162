@@ -10,28 +10,22 @@ I learn by building, breaking, and refining projects, and I’m focused on writi
 
 ---
 
-<h5 align="center">
-  <code>
-    <a href="https://facebook.com/mahdi916" title="Facebook Profile">
-      <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" />
-      Facebook
-    </a>
-  </code>
-  &nbsp;&nbsp;
-  <code>
-    <a href="https://instagram.com/rifu91629" title="Instagram Profile">
-      <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
-      Instagram
-    </a>
-  </code>
-  &nbsp;&nbsp;
-  <code>
-    <a href="https://x.com/mahdi9162" title="X (Twitter) Profile">
-      <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" />
-      X
-    </a>
-  </code>
-</h5>
+<p align="center">
+  <a href="https://facebook.com/mahdi916" title="Facebook Profile" style="margin: 0 10px; text-decoration: none;">
+    <img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" style="filter: invert(1);" />
+    <span>&nbsp;Facebook</span>
+  </a>
+
+  <a href="https://instagram.com/rifu91629" title="Instagram Profile" style="margin: 0 10px; text-decoration: none;">
+    <img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="filter: invert(1);" />
+    <span>&nbsp;Instagram</span>
+  </a>
+
+  <a href="https://x.com/mahdi9162" title="X (Twitter) Profile" style="margin: 0 10px; text-decoration: none;">
+    <img width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" style="filter: invert(1);" />
+    <span>&nbsp;X</span>
+  </a>
+</p>
 
 ---
 
