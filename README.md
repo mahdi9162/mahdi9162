@@ -6,7 +6,7 @@
 
 I’m a frontend developer who enjoys building UI-heavy web applications that actually get used.  
 Most of my work focuses on React-based CRUD apps where I care deeply about layout, user flow, and clean component structure.  
-I learn by building, breaking, and refining projects — and I’m currently preparing for frontend job and internship opportunities.
+I learn by building, breaking, and refining projects, and I’m focused on writing frontend code that’s ready for real users.
 
 ---
 
