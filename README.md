@@ -18,21 +18,27 @@ I learn by building, breaking, and refining projects, and I’m focused on writi
 
 ---
 
+### 🛠️ Tech Stack
 
-### Tech Stack
+#### ⚙️ Core
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
 
-**Core**
-- JavaScript
-- React
-- HTML & CSS
-- Tailwind CSS
-- React Router
-- Vite
-
-**Supporting tools**
-- Firebase
-- Netlify / Vercel
-- Git & GitHub
+#### 🔧 Supporting tools
+<p>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
