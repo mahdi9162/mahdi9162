@@ -6,9 +6,10 @@
 
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mahdi9162)
 
-I’m a frontend developer who enjoys turning ideas into clean, usable interfaces.
-I mainly work with React and focus on building UI that feels simple, responsive, and practical for real users.
-I like learning by building, improving through feedback, and keeping my code structured and readable.
+I’m a frontend developer who enjoys building clean and user-friendly web interfaces.
+I mainly work with React and focus on creating responsive UI, smooth user flows, and well-structured components.
+I believe in learning by building, improving through feedback, and writing code that is practical for real users.
+My goal is to grow steadily as a developer by working on meaningful projects and continuously refining my skills.
 
 ---
 
