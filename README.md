@@ -17,7 +17,7 @@ I learn by building, breaking, and refining projects, and I’m focused on writi
 ## 🎯 Currently focused on
 
 <img align="right" alt="coding gif" width="320"
-     src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+     src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 - 🧱 Building UI-heavy React applications with real-world user flows  
 - 🧠 Strengthening JavaScript fundamentals through hands-on projects  
