@@ -1,4 +1,4 @@
-<img src="./banner_github.jpg" alt="GitHub profile banner" />
+<img width="938" height="805" alt="image" src="https://github.com/user-attachments/assets/37743470-d051-4124-b123-35e019f5fc83" /><img src="./banner_github.jpg" alt="GitHub profile banner" />
 
 ---
 
@@ -7,6 +7,31 @@
 I’m a frontend developer who enjoys building UI-heavy web applications that actually get used.  
 Most of my work focuses on React-based CRUD apps where I care deeply about layout, user flow, and clean component structure.  
 I learn by building, breaking, and refining projects, and I’m focused on writing frontend code that’s ready for real users.
+
+---
+
+<h5 align="center">
+  <code>
+    <a href="https://facebook.com/mahdi916" title="Facebook Profile">
+      <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" />
+      Facebook
+    </a>
+  </code>
+  &nbsp;&nbsp;
+  <code>
+    <a href="https://instagram.com/rifu91629" title="Instagram Profile">
+      <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" />
+      Instagram
+    </a>
+  </code>
+  &nbsp;&nbsp;
+  <code>
+    <a href="https://x.com/mahdi9162" title="X (Twitter) Profile">
+      <img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" />
+      X
+    </a>
+  </code>
+</h5>
 
 ---
 
