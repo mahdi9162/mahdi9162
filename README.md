@@ -1,4 +1,4 @@
-<img src="./banner_github_org.jpg" alt="GitHub profile banner" />
+<img src="./banner.jpg" alt="GitHub profile banner" />
 
 ---
 
