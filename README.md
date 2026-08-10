@@ -19,7 +19,7 @@ I enjoy understanding how features work end to end, solving real product problem
 - 🤖 Automation & AI Workflows
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/thisismahdihasan">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thisismahdihasan&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="thisismahdihasan's GitHub Stats" />
@@ -33,7 +33,7 @@ I enjoy understanding how features work end to end, solving real product problem
 
 ## 🛠️ Languages & Tools
 
-<table width="100%" align="center" border_radius="10px">
+<table width="100%" align="center">
   <tr>
     <td width="400" align="center" valign="top">
       <p><strong>Programming Languages</strong></p>
