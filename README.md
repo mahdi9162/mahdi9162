@@ -58,3 +58,8 @@ I care about writing code I can understand and explain, solving problems properl
 <br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi9162&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
+![snake gif](https://github.com/thisismahdihasan/thisismahdihasan/blob/output/github-snake-dark.svg)
