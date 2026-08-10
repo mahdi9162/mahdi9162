@@ -33,7 +33,7 @@ I enjoy understanding how features work end to end, solving real product problem
 
 ## 🛠️ Languages & Tools
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
       <p><strong>Programming Languages</strong></p>
