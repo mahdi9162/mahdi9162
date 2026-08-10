@@ -29,14 +29,14 @@ I care about writing code I can understand and explain, solving problems properl
 
 <table>
   <tr>
-    <td valign="middle" width="60%">
-      <p>🧩 Building full-stack features across React, Next.js, Node.js, and Express</p>
-      <p>🗄️ Working with PostgreSQL and Prisma for database-backed application flows</p>
-      <p>🔐 Building authentication, role-based access, and secure application workflows</p>
-      <p>💳 Working on subscriptions, payments, third-party integrations, and real-time features</p>
-      <p>🛠️ Improving backend practices around validation, security, deployment, and maintainability</p>
+    <td valign="middle" width="63%">
+      <p><strong>🧩 Full-Stack Development</strong><br/>React, Next.js, Node.js &amp; Express</p>
+      <p><strong>🗄️ Database &amp; ORM</strong><br/>PostgreSQL &amp; Prisma</p>
+      <p><strong>🔐 Authentication &amp; Access</strong><br/>Auth flows, role-based access and application security</p>
+      <p><strong>💳 Payments &amp; Integrations</strong><br/>Subscriptions, payment flows, third-party APIs and real-time features</p>
+      <p><strong>🛠️ Backend Practices</strong><br/>Validation, security, deployment and maintainability</p>
     </td>
-    <td valign="middle" width="40%" align="center">
+    <td valign="middle" width="37%" align="center">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding gif" width="300" />
     </td>
   </tr>
