@@ -49,7 +49,7 @@ I care about writing code I can understand and explain, solving problems properl
 
 # 📊 GitHub Stats
 
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisismahdihasan&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)
+![Mahdi's GitHub Stats](https://github-stats-extended.vercel.app/api?username=thisismahdihasan&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)
 
 <br/>
 
@@ -57,7 +57,7 @@ I care about writing code I can understand and explain, solving problems properl
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismahdihasan&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=thisismahdihasan&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
