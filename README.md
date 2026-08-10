@@ -53,7 +53,7 @@ I care about writing code I can understand and explain, solving problems properl
 
 <br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thisismahdihasan&theme=date_night&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=thisismahdihasan&theme=date_night&hide_border=false)
 
 <br/>
 
