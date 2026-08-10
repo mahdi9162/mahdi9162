@@ -30,13 +30,11 @@ I care about writing code I can understand and explain, solving problems properl
 <table>
   <tr>
     <td valign="middle" width="60%">
-      <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>🧩 Building full-stack features across React, Next.js, Node.js, and Express</li>
-        <li>🗄️ Working with PostgreSQL and Prisma for database-backed application flows</li>
-        <li>🔐 Building authentication, role-based access, and secure application workflows</li>
-        <li>💳 Working on subscriptions, payments, third-party integrations, and real-time features</li>
-        <li>🛠️ Improving backend practices around validation, security, deployment, and maintainability</li>
-      </ul>
+      <p>🧩 Building full-stack features across React, Next.js, Node.js, and Express</p>
+      <p>🗄️ Working with PostgreSQL and Prisma for database-backed application flows</p>
+      <p>🔐 Building authentication, role-based access, and secure application workflows</p>
+      <p>💳 Working on subscriptions, payments, third-party integrations, and real-time features</p>
+      <p>🛠️ Improving backend practices around validation, security, deployment, and maintainability</p>
     </td>
     <td valign="middle" width="40%" align="center">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding gif" width="300" />
