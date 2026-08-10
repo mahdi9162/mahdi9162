@@ -71,7 +71,7 @@ I care about writing code I can understand and explain, solving problems properl
       <img src="https://github-stats-extended.vercel.app/api?username=thisismahdihasan&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" />
     </td>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thisismahdihasan&theme=date_night&hide_border=true&count_private=false&layout=compact&langs_count=2&hide=PLpgSQL,Dockerfile,CSS,HTML&exclude_repo=docker-learning-app" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thisismahdihasan&theme=date_night&hide_border=true&count_private=false&layout=compact&langs_count=4&hide=PLpgSQL,Dockerfile&exclude_repo=docker-learning-app" />
     </td>
   </tr>
 </table>
