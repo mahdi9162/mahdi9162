@@ -13,8 +13,6 @@
 
 ---
 
-<img align="right" alt="coding gif" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-
 ### 🙋 About Me
 
 I'm a **Full-Stack Developer** who enjoys understanding how a product works end to end — from the interface users interact with to the APIs, database, and backend logic behind it.
@@ -28,6 +26,8 @@ I care about writing code I can understand and explain, solving problems properl
 ---
 
 ### 🎯 Currently Focused On
+
+<img align="right" alt="coding gif" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 | | |
 |---|---|
