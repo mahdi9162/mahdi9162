@@ -20,7 +20,7 @@ I care about writing code I can understand and explain, solving problems properl
 
 <img align="right" alt="coding gif" width="320"
      src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-<br clear="right" />
+     
 - 🧩 Building full-stack features across React, Next.js, Node.js, and Express
 - 🗄️ Working with PostgreSQL and Prisma for database-backed application flows
 - 🔐 Building authentication, role-based access, and secure application workflows
