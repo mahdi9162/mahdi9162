@@ -49,15 +49,15 @@ I care about writing code I can understand and explain, solving problems properl
 
 # 📊 GitHub Stats
 
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi9162&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)
+![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisismahdihasan&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)
 
 <br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mahdi9162&theme=date_night&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thisismahdihasan&theme=date_night&hide_border=false)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi9162&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismahdihasan&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
