@@ -35,14 +35,14 @@ I enjoy understanding how features work end to end, solving real product problem
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="400" align="center" valign="top">
       <p><strong>Programming Languages</strong></p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" />&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" />
       </p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="400" align="center" valign="top">
       <p><strong>Frontend</strong></p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="38" />&nbsp;
@@ -53,14 +53,14 @@ I enjoy understanding how features work end to end, solving real product problem
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="400" align="center" valign="top">
       <p><strong>Backend</strong></p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" />&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="38" />
       </p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="400" align="center" valign="top">
       <p><strong>Database</strong></p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="38" />&nbsp;
@@ -69,14 +69,14 @@ I enjoy understanding how features work end to end, solving real product problem
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="400" align="center" valign="top">
       <p><strong>DevOps &amp; Cloud</strong></p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="38" />&nbsp;
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="38" />
       </p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="400" align="center" valign="top">
       <p><strong>Tools</strong></p>
       <p>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="38" />&nbsp;
