@@ -1,45 +1,53 @@
-<img src="./banner.jpg" alt="GitHub profile banner" />
+<img src="./banner.jpg" alt="GitHub profile banner" width="100%" />
+
+<br/>
+
+<div align="center">
+
+## 👋 Glad to see you here!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thisismahdihasan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisismahdihasan)
+
+</div>
 
 ---
 
-## Glad to see you here!
+<img align="right" alt="coding gif" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-### Connect
+### 🙋 About Me
 
-[Portfolio](https://thisismahdihasan.com) · [LinkedIn](https://www.linkedin.com/in/thisismahdihasan)
+I'm a **Full-Stack Developer** who enjoys understanding how a product works end to end — from the interface users interact with to the APIs, database, and backend logic behind it.
 
-I’m a Full-Stack Developer who enjoys understanding how a product works end to end — from the interface users interact with to the APIs, database, and backend logic behind it.
+I work mainly with **React, Next.js, Node.js, Express, TypeScript, PostgreSQL, and Prisma**, building responsive interfaces and practical backend features for real-world applications.
 
-I work mainly with React, Next.js, Node.js, Express, TypeScript, PostgreSQL, and Prisma, building responsive interfaces and practical backend features for real-world applications.
-
-I care about writing code I can understand and explain, solving problems properly, and building features that are clean, maintainable, and useful in a real product.
-
----
-
-## 🎯 Currently focused on
-
-<img align="right" alt="coding gif" width="320"
-     src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-     
-- 🧩 Building full-stack features across React, Next.js, Node.js, and Express
-- 🗄️ Working with PostgreSQL and Prisma for database-backed application flows
-- 🔐 Building authentication, role-based access, and secure application workflows
-- 💳 Working on subscriptions, payments, third-party integrations, and real-time features
-- 🛠️ Improving backend practices around validation, security, deployment, and maintainability 
+I care about writing code I can understand and explain, solving problems properly, and building features that are **clean, maintainable, and useful** in a real product.
 
 <br clear="right" />
 
 ---
 
+### 🎯 Currently Focused On
+
+| | |
+|---|---|
+| 🧩 | Building full-stack features across React, Next.js, Node.js, and Express |
+| 🗄️ | Working with PostgreSQL and Prisma for database-backed application flows |
+| 🔐 | Building authentication, role-based access, and secure application workflows |
+| 💳 | Working on subscriptions, payments, third-party integrations, and real-time features |
+| 🛠️ | Improving backend practices around validation, security, deployment, and maintainability |
+
+---
+
 ### 🛠️ Tech Stack
 
-#### ⚙️ Core
+**⚙️ Core**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,postgres,prisma,mongodb" />
 </p>
 
-#### 🔧 Supporting tools
+**🔧 Supporting Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,firebase,supabase,git,github,postman,vercel" />
@@ -47,19 +55,27 @@ I care about writing code I can understand and explain, solving problems properl
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Mahdi's GitHub Stats](https://github-stats-extended.vercel.app/api?username=thisismahdihasan&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=thisismahdihasan&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thisismahdihasan&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thisismahdihasan&theme=date_night&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=thisismahdihasan&theme=date_night&hide_border=true" />
 
 <br/>
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=thisismahdihasan&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github.com/thisismahdihasan/thisismahdihasan/blob/output/github-snake-dark.svg" alt="snake animation" />
 
-
-
-
-![snake gif](https://github.com/thisismahdihasan/thisismahdihasan/blob/output/github-snake-dark.svg)
+</div>
