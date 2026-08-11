@@ -24,7 +24,7 @@ I enjoy understanding how features work end to end, solving real product problem
   <a href="https://github.com/thisismahdihasan">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thisismahdihasan&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="thisismahdihasan's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=thisismahdihasan&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="thisismahdihasan's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisismahdihasan&theme=gruvbox&hide_border=true" alt="thisismahdihasan's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=thisismahdihasan&theme=gruvbox&radius=10" alt="thisismahdihasan's Activity Graph" />
