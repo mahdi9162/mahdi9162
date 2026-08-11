@@ -94,12 +94,6 @@ I enjoy understanding how features work end to end, solving real product problem
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/thisismahdihasan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thisismahdihasan&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
 ![Top language](https://stats.pphat.top/languages?username=thisismahdihasan)
 <br/>
 
