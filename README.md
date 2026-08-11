@@ -94,7 +94,9 @@ I enjoy understanding how features work end to end, solving real product problem
   </tr>
 </table>
 
-![Top language](https://stats.pphat.top/languages?username=thisismahdihasan)
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=thisismahdihasan" alt="GitHub Language Graph" width="100%" />
+</p>
 <br/>
 
 ## 🔗 Connect with Me
